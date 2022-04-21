@@ -1,3 +1,11 @@
+# NextJS & Tailwind, FireBase V9, Recoil Project
+
+- npx create-next-app -e with-tailwindcss insta-clone
+- **Fake DATA** library: npm i @faker-js/faker --save-dev
+- npm i @tailwindcss/forms
+- npm i @heroicons/react
+- npm i --save-dev tailwind-scrollbar
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
